@@ -1,0 +1,1 @@
+// Copia aquí el contenido del Dashboard desde el canvas
